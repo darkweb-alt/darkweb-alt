@@ -79,6 +79,19 @@
 <img src="https://raw.githubusercontent.com/darkweb-alt/darkweb-alt/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
+
+### 🧠 LeetCode Activity
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Pitambar2061/">
+<img src="https://leetcard.jacoblin.cool/Pitambar2061?theme=nord&font=baloo2&ext=heatmap" width="100%"/>
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
