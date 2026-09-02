@@ -50,17 +50,6 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/darkweb-alt">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=darkweb-alt&repo=CampusConnect-SREC&theme=tokyonight&border_color=2C5364"/>
-</a>
-<a href="https://github.com/darkweb-alt">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=darkweb-alt&repo=Auto-Lab-Reporter&theme=tokyonight&border_color=2C5364"/>
-</a>
-
-</div>
-
 | Project | Stack | Highlight |
 |---|---|---|
 | **CampusConnect-SREC** | Flask, Firebase, Supabase, Groq API | AI-powered campus platform — social feed, FAQ chatbot, notes hub, quizzes |
@@ -90,6 +79,9 @@
 <img src="https://raw.githubusercontent.com/darkweb-alt/darkweb-alt/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
+> ⚠️ The snake animation above needs a one-time **GitHub Actions** setup (see notes below) — it won't render until then.
+
+---
 
 <div align="center">
 
