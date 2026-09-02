@@ -79,10 +79,6 @@
 <img src="https://raw.githubusercontent.com/darkweb-alt/darkweb-alt/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚠️ The snake animation above needs a one-time **GitHub Actions** setup (see notes below) — it won't render until then.
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
