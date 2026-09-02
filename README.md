@@ -89,9 +89,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/darkweb-alt/darkweb-alt/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-> ⚠️ The snake animation above needs a one-time **GitHub Actions** setup (see notes below) — it won't render until then.
-
 ---
 
 <div align="center">
