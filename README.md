@@ -28,7 +28,7 @@
 - 🩺 Recurring focus areas: **healthcare**, **industrial AI**, and **marketplace platforms**
 - 🏆 Active hackathon participant — MongoDB Ideathon, MSME Hackathon, Omnikon 2026
 - 🌱 Currently sharpening **DSA** and preparing for full-time placements
-- ⚡ Fun fact: I also run an AI-generated comedy channel, [**AI Ghar**](https://instagram.com/0aighar)
+- ⚡ Fun fact: I also run an AI-generated comedy channel, [**AI Ghar**]
 
 ---
 
